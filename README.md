@@ -17,4 +17,4 @@ All combined via a Voting Regressor for more stable, generalizable predictions.
 
    
 👤 Author
-Soon Hao — LinkedIn | Medium
+Soon Hao — [LinkedIn] (www.linkedin.com/in/gohsoonhao) | [Medium] (https://medium.com/@soonhaogoh/from-stats-to-superstars-using-data-science-to-predict-the-nba-mvp-e4d1d8474079)
