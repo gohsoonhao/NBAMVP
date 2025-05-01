@@ -1,0 +1,20 @@
+# 🏀 NBA MVP Prediction (ML Project)
+The goal is to identify key factors that influence MVP voting and generate data-driven predictions.
+
+## 🔍 Project Summary
+- Target: MVP Share (vote points / max possible points)
+- Data: Player box stats, team wins/losses, availability metrics
+
+
+## ⚙️ Models Used
+Ensemble model using:
+
+- Linear Regression
+- Gradient Boosting
+- XGBoost
+
+All combined via a Voting Regressor for more stable, generalizable predictions.
+
+   
+👤 Author
+Soon Hao — LinkedIn | Medium
