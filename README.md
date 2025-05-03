@@ -2,7 +2,7 @@
 
 This project uses machine learning to predict NBA MVP vote shares based on player and team statistics. The goal is to understand which factors consistently influence MVP voting and to generate data-driven predictions for each season.
 
-I break down the full process — from identifying what defines an MVP season to data cleaning, feature selection, and model evaluation — in this Medium article:  
+I break down the full process in this Medium article:  
 👉 [Predicting the NBA MVP Race Using Machine Learning](https://medium.com/@soonhaogoh/from-stats-to-superstars-using-data-science-to-predict-the-nba-mvp-e4d1d8474079)
 
 ## 🔍 Project Summary
