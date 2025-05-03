@@ -1,20 +1,23 @@
 # 🏀 NBA MVP Prediction (ML Project)
-The goal is to identify key factors that influence MVP voting and generate data-driven predictions.
+
+This project uses machine learning to predict NBA MVP vote shares based on player and team statistics. The goal is to understand which factors consistently influence MVP voting and to generate data-driven predictions for each season.
+
+I break down the full process — from identifying what defines an MVP season to data cleaning, feature selection, and model evaluation — in this Medium article:  
+👉 [Predicting the NBA MVP Race Using Machine Learning](https://medium.com/@soonhaogoh/from-stats-to-superstars-using-data-science-to-predict-the-nba-mvp-e4d1d8474079)
 
 ## 🔍 Project Summary
-- Target: MVP Share (vote points / max possible points)
-- Data: Player box stats, team wins/losses, availability metrics
 
+- **Target:** MVP Share (vote points / max possible points)  
+- **Data:** Player box score stats, team wins, availability, and standings  
+- **Years Covered:** 20 NBA seasons  
+- **Source:** [Basketball Reference](https://www.basketball-reference.com/)
 
 ## ⚙️ Models Used
-Ensemble model using:
 
-- Linear Regression
-- Gradient Boosting
-- XGBoost
+An ensemble model combining:
+- Linear Regression  
+- Gradient Boosting  
+- XGBoost  
 
-All combined via a Voting Regressor for more stable, generalizable predictions.
+Combined using a **Voting Regressor** to balance individual model strengths and improve overall prediction quality.
 
-   
-## 👤 Author
-Soon Hao — [Medium](https://medium.com/@soonhaogoh/from-stats-to-superstars-using-data-science-to-predict-the-nba-mvp-e4d1d8474079)
